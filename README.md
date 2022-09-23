@@ -17,3 +17,4 @@ devops-notlar
 - [Securing Secrets with Vault - Akın Özer](https://www.youtube.com/watch?v=vOQfP_krK7s)
 
 ## EN Docs
+- [How to Integrate HashiCorp Vault With Jenkins - CloudBeesTV](https://www.youtube.com/watch?v=5-RMu9M_Anc)
