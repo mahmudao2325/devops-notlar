@@ -1,0 +1,2 @@
+# devops-notlar
+devops-notlar
