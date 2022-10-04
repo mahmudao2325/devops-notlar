@@ -6,6 +6,7 @@ devops-notlar
 
 ## EN Docs
 - [https://ansiblepilot.com/](https://ansiblepilot.com/) | [https://www.youtube.com/c/AnsiblePilot](https://www.youtube.com/c/AnsiblePilot)
+- [https://ansible-vault.braz.dev/](https://ansible-vault.braz.dev/) online ansible-vault [encrypt | decrypt] tool
 
 ## Kısa Kısa Notlar
 - Windows sunucularda ssh bağlantı açılması ve ansible ile bağlanabilme için [video](https://www.youtube.com/watch?v=Wx7WPDnwcDg)
